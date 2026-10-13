@@ -1,0 +1,17 @@
+*.o
+*.obj
+
+*.exe
+*.out
+
+*.pdb
+.ilk
+core
+core.
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+desktop.ini
